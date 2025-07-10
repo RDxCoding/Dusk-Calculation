@@ -20,6 +20,9 @@ This is a basic command-line calculator built in Python.It allows the user to pe
 <img>![vs screen](![Screenshot 2025-06-29 152542](https://github.com/user-attachments/assets/fd5f821f-148a-47ad-b5a3-77dba192e21e)
 )</img>
 
+<img width="1920" height="1020" alt="Screenshot 2025-07-10 213445" src="https://github.com/user-attachments/assets/d920955c-64ff-4cd3-aa6b-e0c3272c0d01" />
+
+<h1>App is live .......</h1>
 
 ---
 
